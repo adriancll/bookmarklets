@@ -1,0 +1,1 @@
+javascript: (function () { document.body.style.filter = 'blur(5px)'; })();alert("Made by andrew and adrian")
