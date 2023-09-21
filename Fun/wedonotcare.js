@@ -1,0 +1,1 @@
+javascript:(function(){var audio=new Audio('https://www.myinstants.com/media/sounds/we-do-not-care_phB0mEB.mp3');audio.play();var imgs=document.getElementsByTagName('img');for(var i=0;i<imgs.length;i++){imgs[i].src='https://media.istockphoto.com/id/1188391566/photo/air-horn.jpg?s=612x612&w=0&k=20&c=-0vk91QdjZ_qNu88HvFNYSSqVxAAVodAIpO1dZujK3A=';}alert("Made by Adrian");})();
