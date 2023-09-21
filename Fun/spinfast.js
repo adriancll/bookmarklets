@@ -1,0 +1,1 @@
+javascript:(function(){var rotateCSS='rotate(1800deg)';document.body.style.transition='transform 2s';document.body.style.transform=rotateCSS;setTimeout(function(){document.body.style.transition='';document.body.style.transform='';setTimeout(function(){alert("Made by Adrian");},500);},2000);})();
