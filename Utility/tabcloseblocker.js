@@ -1,0 +1,1 @@
+javascript:(function () {window.onbeforeunload = function() { return 1; };alert("Made by Adrian");})()
